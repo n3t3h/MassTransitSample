@@ -1,0 +1,10 @@
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\bin\Debug\netcoreapp2.0\EmitLogs.deps.json
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\bin\Debug\netcoreapp2.0\EmitLogs.runtimeconfig.json
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\bin\Debug\netcoreapp2.0\EmitLogs.runtimeconfig.dev.json
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\bin\Debug\netcoreapp2.0\EmitLogs.dll
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\bin\Debug\netcoreapp2.0\EmitLogs.pdb
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\obj\Debug\netcoreapp2.0\EmitLogs.csproj.CoreCompileInputs.cache
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\obj\Debug\netcoreapp2.0\EmitLogs.AssemblyInfoInputs.cache
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\obj\Debug\netcoreapp2.0\EmitLogs.AssemblyInfo.cs
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\obj\Debug\netcoreapp2.0\EmitLogs.dll
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\Tutorial\PubSubModel\EmitLogs\obj\Debug\netcoreapp2.0\EmitLogs.pdb
