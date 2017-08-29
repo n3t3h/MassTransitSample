@@ -1,0 +1,10 @@
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\bin\Debug\netcoreapp2.0\Send.dll
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\bin\Debug\netcoreapp2.0\Send.pdb
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\obj\Debug\netcoreapp2.0\Send.dll
+C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Send\obj\Debug\netcoreapp2.0\Send.pdb
