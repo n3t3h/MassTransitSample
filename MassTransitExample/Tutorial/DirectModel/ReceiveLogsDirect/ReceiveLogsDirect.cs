@@ -5,8 +5,11 @@ using System.Text;
 
 class ReceiveLogsDirect
 {
+    private const int ERROR_BAD_ARGUMENTS = 0xA0;
+
     public static void Main(string[] args)
     {
+
         var factory = new ConnectionFactory() { HostName = "localhost" };
         using(var connection = factory.CreateConnection())
         using(var channel = connection.CreateModel())
@@ -21,7 +24,7 @@ class ReceiveLogsDirect
                                         Environment.GetCommandLineArgs()[0]);
                 Console.WriteLine(" Press [enter] to exit.");
                 Console.ReadLine();
-                Environment.ExitCode = 1;
+                Environment.ExitCode = ERROR_BAD_ARGUMENTS;
                 return;
             }
 
