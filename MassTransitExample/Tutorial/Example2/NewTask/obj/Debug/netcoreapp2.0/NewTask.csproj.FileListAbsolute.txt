@@ -8,3 +8,9 @@ C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Example2\NewTask\obj\Debug\
 C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfo.cs
 C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.dll
 C:\Users\DeshpandeSachinS\Source\MTRabbitMQ\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.pdb
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\bin\Debug\netcoreapp2.0\NewTask.deps.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.dev.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfo.cs
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.dll
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\Example2\NewTask\obj\Debug\netcoreapp2.0\NewTask.pdb

@@ -1,0 +1,8 @@
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\bin\Debug\netcoreapp1.1\EmitLogDirect.deps.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\bin\Debug\netcoreapp1.1\EmitLogDirect.runtimeconfig.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\bin\Debug\netcoreapp1.1\EmitLogDirect.runtimeconfig.dev.json
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\bin\Debug\netcoreapp1.1\EmitLogDirect.dll
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\bin\Debug\netcoreapp1.1\EmitLogDirect.pdb
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\obj\Debug\netcoreapp1.1\EmitLogDirect.AssemblyInfo.cs
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\obj\Debug\netcoreapp1.1\EmitLogDirect.dll
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\EmitLogDirect\obj\Debug\netcoreapp1.1\EmitLogDirect.pdb
