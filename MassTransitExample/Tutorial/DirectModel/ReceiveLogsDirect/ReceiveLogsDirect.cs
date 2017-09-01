@@ -24,7 +24,7 @@ class ReceiveLogsDirect
                                         Environment.GetCommandLineArgs()[0]);
                 Console.WriteLine(" Press [enter] to exit.");
                 Console.ReadLine();
-                Environment.ExitCode = ERROR_BAD_ARGUMENTS;
+                Environment.Exit(ERROR_BAD_ARGUMENTS);
                 return;
             }
 

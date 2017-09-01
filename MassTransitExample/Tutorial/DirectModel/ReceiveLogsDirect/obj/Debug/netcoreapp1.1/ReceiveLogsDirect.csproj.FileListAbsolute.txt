@@ -2,3 +2,7 @@ C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\Rec
 C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\bin\Debug\netcoreapp1.1\ReceiveLogsDirect.runtimeconfig.json
 C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\bin\Debug\netcoreapp1.1\ReceiveLogsDirect.runtimeconfig.dev.json
 C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\obj\Debug\netcoreapp1.1\ReceiveLogsDirect.AssemblyInfo.cs
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\bin\Debug\netcoreapp1.1\ReceiveLogsDirect.dll
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\bin\Debug\netcoreapp1.1\ReceiveLogsDirect.pdb
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\obj\Debug\netcoreapp1.1\ReceiveLogsDirect.dll
+C:\Source\GitRepos\MassTransitSample\MassTransitExample\Tutorial\DirectModel\ReceiveLogsDirect\obj\Debug\netcoreapp1.1\ReceiveLogsDirect.pdb
