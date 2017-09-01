@@ -1,0 +1,5 @@
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\MtPubSubExample-master\Contracts\bin\Debug\Contracts.dll
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\MtPubSubExample-master\Contracts\bin\Debug\Contracts.pdb
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\MtPubSubExample-master\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\MtPubSubExample-master\Contracts\obj\Debug\Contracts.dll
+C:\Users\DeshpandeSachinS\Source\Repos\MassTransitExample\MtPubSubExample-master\Contracts\obj\Debug\Contracts.pdb
